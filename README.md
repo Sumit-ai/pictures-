@@ -1,3 +1,7 @@
+# **Mathetics behind machine learning**
+
+## *Chapter 1: Linear Algebra*
+
 *Linear Algebra is study of vectors and certain rules to manipulate the matrices*
 
 * **Vector :**  Vectors are special objects that can be added together and multiplied by scalars to produce another object of the same kind.
